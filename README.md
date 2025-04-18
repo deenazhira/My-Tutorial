@@ -21,6 +21,13 @@ Include functions for profile update :
  
 ### 4. **edit.blade.php**
 - `resources/views/profile/edit.blade.php`
+- User able to edit profile: nickname, email, phone, city, password, and avatar.
+- Avatar that uploaded will display next to nickname.
+- Message are displayed after update profile and delete account for confirmation.
+
+### 5. **Migrations**
+- create_todos_table.php
+- add_profile_fields_to_users_table.php
 
 ### Here is my view
 - Todo
