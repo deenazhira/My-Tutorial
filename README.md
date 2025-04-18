@@ -21,10 +21,13 @@ Include functions for profile update :
  
 ### 4. **edit.blade.php**
 - `resources/views/profile/edit.blade.php`
-- User can edit profile: nickname, email, phone, city, password, and avatar.
-- Upload avatar image.
-- Avatar stored in `storage/app/public/avatars`.
-- Users can delete their account from profile page.
-- Display avatar image next the nickname.
-- Messages shown after updates or account deletion.
+
+### Here is my view
+- Todo
+![image](https://github.com/user-attachments/assets/46cb9f7a-b031-4e9f-880f-38edd53a753b)
+
+- My Profile 
+![image](https://github.com/user-attachments/assets/39cdb8d1-d851-41f6-804a-102472ba0559)
+
+
 
